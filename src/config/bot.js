@@ -24,9 +24,9 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "𝕭𝖊𝖘𝖙 𝖘𝖊𝖗𝖛𝖊𝖗 𝖇𝖔𝖙 𝖆𝖛𝖆𝖎𝖑𝖆𝖇𝖑𝖊.",
+        name: "The 8𝕭𝖆𝖑𝖑 Server",
         // Activity type number (0 = Playing).
-        type: 0,
+        type: 3,
       },
     ],
   },
